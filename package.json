@@ -1,0 +1,18 @@
+{
+  "name": "pathfinder",
+  "version": "1.0.0",
+  "description": "Simple Routing for Node.JS in Typescript",
+  "main": " ",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.51",
+    "@types/source-map-support": "^0.2.28",
+    "source-map-support": "^0.4.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dustin Ewan",
+  "license": "ISC"
+}
